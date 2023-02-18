@@ -1,1 +1,3 @@
-/ndata=a&data2=b/ndata=cD&data2=E/ndata=F&data2=G/ndata=SASA&data2=SASA2
+undefined
+data=ss&data2=qqq
+data=ssq&data2=qqqqw
