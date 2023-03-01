@@ -1,0 +1,33 @@
+npm init -y
+npm i express
+
+*) for nodemon
+npm i nodemon --save-dev
+add  nodemon in script in package.json
+
+*) for body parse
+npm i body-parser
+
+https://www.youtube.com/watch?v=9SfBKuyR0nw&list=PLare8X3WDswFrTo9ORxoxjrcrg2QGXIcz&index=2
+51:07 
+
+app.set
+app.use
+app.get
+app.post
+
+first video :::
+https://www.youtube.com/watch?v=okIeWy8SZmE&list=PLare8X3WDswFrTo9ORxoxjrcrg2QGXIcz&index=1
+
+for node js basic
+
+
+
+Second video :::
+https://www.youtube.com/watch?v=9SfBKuyR0nw&list=PLare8X3WDswFrTo9ORxoxjrcrg2QGXIcz&index=2
+
+nodemon 
+body parser
+middleware
+static file
+form data recive

@@ -10,6 +10,7 @@ app.use(bodyParser.urlencoded({extended:false}))
 
 // for static file for style.css
 app.use(express.static(path.join(__dirname , "public")))
+// folder ka name public hy
 
 //  for ejs
 app.set("view engine" , "ejs")
