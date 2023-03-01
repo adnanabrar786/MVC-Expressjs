@@ -4,13 +4,16 @@ app.use
 app.get
 app.post
 
+res.send
+res.sendFile
+rs.render
 
 npm   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 npm init -y
 npm i express
 
 *) for nodemon
-npm i nodemon --save-dev
+npm i nodemon --save-dev (for development only)
 add  nodemon in script in package.json
 
 *) for body parse
@@ -36,3 +39,12 @@ body parser
 middleware
 static file
 form data recive
+
+
+
+Third video   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+https://www.youtube.com/watch?v=EkIL26bMkvc&list=PLare8X3WDswFrTo9ORxoxjrcrg2QGXIcz&index=3
+42:37 
+
+
+jb bhi render k andr ejs ki file ka  string dae gay wo khud ejs ki file smjh jaey ga k  path kya hy 
