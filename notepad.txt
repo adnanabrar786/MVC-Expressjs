@@ -9,7 +9,7 @@ res.sendFile
 rs.render
 
 npm   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-npm init -y
+npm init --y or  npm init --yes
 npm i express
 
 *) for nodemon

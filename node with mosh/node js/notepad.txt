@@ -1,0 +1,44 @@
+>>>>>>>>>>>>>>> video >>>>>>>>>>>>>>>
+https://www.youtube.com/watch?v=TlB_eWDSMt4&feature=youtu.be
+53:21 
+
+
+fs
+events
+
+>>>>>>>>>>>>>>>>  Path Module >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+exports, require, module, __filename, __dirname
+
+>>>>>>>>>>>>>>>>  OS Module >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+os.freemem(), os.totalmem() 
+
+>>>>>>>>>>>>>>>>  Nodejs Basic  >>>>>>>>>>>>>>>>>>>>>>>>>
+console 
+buffer
+File System
+HTTP
+OS
+Path
+Process
+Query Strings
+Stream
+
+
+
+>>>>>>>>>>>>>>>>>  Node js Topics  >>>>>>>>>>>>>
+Node Package manager (NPM)
+Asynchronous JavaScript
+CRUD Operation
+Data Validation
+Authentication and Authorization
+Handling and Logic Errors
+Unit and Integration testing
+Test driven Development
+Deployment
+Clean Coding and Refactoring
+Security Best Practices
+Useful Libraries
+Comman mistakes yoo should Avoid in Nodejs
+
+>>>>>>>>>>>>>>>>>>>>>>>> free certificate of javascript basic >>>>>>>>>>>>>>>>>>>>>>>>
+https://community.openweaver.com/t/basics-of-javascript-programming/1556?utm_source=youtube&utm_medium=cpc&utm_campaign=promo_community&utm_content=community_selfcertification&utm_term=javascript_devs&gclid=CjwKCAiAr4GgBhBFEiwAgwORrVp4_qLlrMyogKCg4vNXejZ2CEJ4xHfPC_1XehpYR03Z2uBo2vf8-xoCXxgQAvD_BwE
